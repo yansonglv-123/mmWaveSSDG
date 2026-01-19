@@ -12,8 +12,9 @@ Energy-Aware Single-Source Progressive Generalization for Cross-Scene mmWave Rad
 
 <!-- ![Model Architecture](pipeline.png) -->
 Download Weights: Please download the pre-trained weights (eval_model.pt) from the Releases Page and place it in the root directory.
- 📂 Project Structure
+📂 Project Structure 
 📅 Data Availability(https://aiotgroup.github.io/XRF55/)
+
 The repository is organized as follows:
 
 ```text
