@@ -26,4 +26,5 @@ The repository is organized as follows:
 └── README.md           # Documentation
 ```
 Result：
-<img width="80%" alt="屏幕截图 2026-01-19 213010" src="https://github.com/user-attachments/assets/4d192a62-c94a-428c-b744-11aa154fe049" />
+
+<img width="40%" alt="屏幕截图 2026-01-19 213010" src="https://github.com/user-attachments/assets/4d192a62-c94a-428c-b744-11aa154fe049" />
