@@ -11,7 +11,7 @@ Energy-Aware Single-Source Progressive Generalization for Cross-Scene mmWave Rad
 
 
 <!-- ![Model Architecture](pipeline.png) -->
-
+Download Weights: Please download the pre-trained weights (eval_model.pt) from the Releases Page and place it in the root directory.
  📂 Project Structure
 
 The repository is organized as follows:
@@ -19,5 +19,5 @@ The repository is organized as follows:
 ```text
 ├── model.py            # Complete definition of the CNN-LSTM network architecture
 ├── test.py             # Inference script to demonstrate model execution
-├── eval_model.pth      # Pre-trained model weights (for reproducibility)
+├── eval_model.pt      # Pre-trained model weights (for reproducibility)
 └── README.md           # Documentation
