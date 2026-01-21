@@ -2,7 +2,6 @@
 Trustworthy Single-Source Generalization: An Uncertainty-Aware Curriculum Learning Framework for mmWave Radar Sensing
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
-[![Journal: Sensors](https://img.shields.io/badge/Submitted%20to-Sensors-blue)](https://www.mdpi.com/journal/sensors)
 
 > Note:This repository contains the inference code and network architecture for the paper submitted to Sensors (MDPI). The source code is provided to verify the reproducibility of the proposed method.
 
