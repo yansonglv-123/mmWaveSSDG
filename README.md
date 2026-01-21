@@ -1,5 +1,5 @@
-# ENASS
-Energy-Aware Single-Source Progressive Generalization for Cross-Scene mmWave Radar Human Activity Sensing
+# SSDG mmWave
+Trustworthy Single-Source Generalization: An Uncertainty-Aware Curriculum Learning Framework for mmWave Radar Sensing
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
 [![Journal: Sensors](https://img.shields.io/badge/Submitted%20to-Sensors-blue)](https://www.mdpi.com/journal/sensors)
